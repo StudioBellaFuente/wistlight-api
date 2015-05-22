@@ -4,4 +4,5 @@ The [Silex](http://silex.sensiolabs.org/) based API for the [Wistlight App](http
 ### Usage
 After installation, edit `app.php` and set your secret api key as follows:
 ```php
-const APIKEY = 'your-secret-key';```
+const APIKEY = 'your-secret-key';
+```
